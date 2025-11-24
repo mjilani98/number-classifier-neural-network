@@ -1,0 +1,20 @@
+one
+two
+zero
+two
+zero
+two
+two
+zero
+two
+zero
+two
+two
+one
+two
+
+Error Rate : %45.45454545454545
+Middle nodes : 500
+Learning rate : 0.3
+Number iterations : 1000000
+Random number seed : 1321998
